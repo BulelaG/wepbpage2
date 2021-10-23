@@ -1,0 +1,18 @@
+body {
+    overflow: hidden;
+    font-size: var(--font-size-b2);
+    line-height: var(--line-height-b2);
+    background-image: url(back-image.jpg);
+    font-family: var(--font-primary);
+    color: var(--color-body);
+    font-weight: var(--p-regular);
+    background-color: var(--color-dark);
+    margin: 0;
+    padding: 0;
+
+    background: linear-gradient(0deg,
+    rgba(0,0,0, 0.7),
+    rgba(0,0,0, 0.7)
+  ),url(./back-image.jpg);
+}
+
